@@ -40,8 +40,6 @@ This project provides a structured analysis of monthly profit and loss, category
 2. Navigate to **pivot tables** for monthly and category analysis.  
 3. Apply **filters** to view profit/loss by payment mode or sub-category.  
 
-**Future Enhancements**
-- Automate analysis using **Python (Pandas, Matplotlib)**.  
-- Develop interactive dashboards in **Power BI** for real-time visualization.  
+ 
 
 
